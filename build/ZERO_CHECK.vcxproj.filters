@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\bfmal\Documents\Visual Studio 2017\Projects\Capstone2d\build\CMakeFiles\66e59ad08c69b2be74d67ca7522b2d77\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4A39E869-F133-3206-867C-DE66C9C181A6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+C:/Users/bfmal/Documents/Visual Studio 2017/Projects/Capstone2d/build/CMakeFiles/Capstone2d.dir
+C:/Users/bfmal/Documents/Visual Studio 2017/Projects/Capstone2d/build/CMakeFiles/INSTALL.dir
+C:/Users/bfmal/Documents/Visual Studio 2017/Projects/Capstone2d/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bfmal/Documents/Visual Studio 2017/Projects/Capstone2d/build/CMakeFiles/ZERO_CHECK.dir

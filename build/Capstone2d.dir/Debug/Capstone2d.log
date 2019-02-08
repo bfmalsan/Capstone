@@ -1,0 +1,36 @@
+﻿  Main.cpp
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(108): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(109): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(110): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(111): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(112): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(113): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(141): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(166): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\bfmal\documents\visual studio 2017\projects\capstone2d\main.cpp(281): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Capstone2d.vcxproj -> C:\Users\bfmal\Documents\Visual Studio 2017\Projects\Capstone2d\build\Debug\Capstone2d.exe
